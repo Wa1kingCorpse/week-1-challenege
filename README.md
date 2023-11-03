@@ -8,6 +8,8 @@
 - worked with Ryan Hamzel, Kacie O'Neill, and Sharon Moreno
 ## Note
 - The starter code was cloned from the UTA-VIRT-FSF-PT-10-2023-U-LOLC repository being used by UT web dev bootcamp
+## deployed site 
+- https://wa1kingcorpse.github.io/week-1-challenege/
 ## License
 
 - Please refer to the LICENSE in the repo.
